@@ -1,4 +1,4 @@
-# C-Windows-Form-ile-bir-iyilik-senden-olsun-projesi
+# C#-Windows-Form-ile-bir-iyilik-senden-olsun-projesi
 C# kullanarak geliştirdiğim windows form uygulamasında bağış sistemi, Askıda fatura sistemi yönetim sistemi gibi özellikler bulunmaktadır. Proje Adı 'Bir İyilik Senden Olsun'
 
 C#'a hakim olmadan geliştirdiğimden dolayı gereksiz kod kullanımı bulunmaktadır. Geliştirebileceğiniz alanlar; Giriş bölümünde ki verilerin daha güvenli hale getirilmesi, Kayıt ol bölümünde database üzerinde sorgu yapıp kullanıcı yok ise kayıt gerçekleştirmesi, Bir çok yerde farklı farklı database bağlantıları açıp kapamıştım o işlemler tek bir yere toplanabilir. Görsel iyileştirme yapılabilir.
